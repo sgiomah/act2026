@@ -98,7 +98,7 @@ import fs from 'fs';
       //Agrega una ruta /equipo y su función correspondiente para que muestre el equipo del proyecto
       //Haz una página equipo.html correspondiente
       //Escribe el nombre completo y una cualidad que valores en esa persona de tu equipo
-      //Trata de agregar una imagen a opinion.html
+      //Trata de agregar una imagen a equipo.html
       //Explica si la puedes ver, en caso negativo ¿qué crees que pase?
 
       //Agrega una ruta /opinion
