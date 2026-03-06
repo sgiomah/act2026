@@ -27,7 +27,7 @@ import fs from 'fs';
     //Esta función deberá enviar un json con los datos de las mascotas
     function getMascotas(req, res) {
         //Esto representa un objeto JSON de una mascota
-        //Agrega otra escuela
+        //Agrega otra mascota
         const mascotas = {
             "nombre": "Pikachu",
             "color": "Amarillo",
